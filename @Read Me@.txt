@@ -1,0 +1,7 @@
+---How to run---
+Open with Clion. Build project with csv file present. Press run button at top right. "Done." should be printed to the console and ad Results.txt file should be made :)
+
+---C files---
+main.c = the manager (ONLY orchestration)
+io.c = the data loader/saver (math/analysis)
+waveform.c = the engineer doing calculations(file reading/writing)

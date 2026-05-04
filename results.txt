@@ -1,0 +1,33 @@
+Power Quality Waveform Analysis Report
+=====================================
+
+Samples analysed: 1000
+Time span: 0.000000 s to 0.199800 s
+
+Phase A
+  RMS: 230.839 V
+  Peak-to-Peak: 650.000 V
+  DC Offset: 1.124 V
+  Std Dev: 230.835972
+  Clipping Count: 25
+  Within Tolerance: Yes
+  Status Flags: 0x01
+
+Phase B
+  RMS: 229.810 V
+  Peak-to-Peak: 649.857 V
+  DC Offset: 0.000 V
+  Std Dev: 229.809704
+  Clipping Count: 20
+  Within Tolerance: Yes
+  Status Flags: 0x01
+
+Phase C
+  RMS: 229.810 V
+  Peak-to-Peak: 649.857 V
+  DC Offset: -0.000 V
+  Std Dev: 229.809704
+  Clipping Count: 20
+  Within Tolerance: Yes
+  Status Flags: 0x01
+
